@@ -6,9 +6,7 @@
   "issue_tracker": "https://github.com/ha0y/xiaomi_miot_raw/issues",
   "requirements": [],
   "dependencies": [],
-  "codeowners": [
-    "@xunlong"
-  ],
+  "codeowners": [],
   "version": "1.0.0"
 }
 
