@@ -1,0 +1,11 @@
+{
+  "domain": "wristband",
+  "name": "WristBand",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [
+    "group"
+  ],
+  "codeowners": []
+}
+
