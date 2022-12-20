@@ -1,6 +1,6 @@
 {
-  "name": "wristband",
-  "render_readme": true,
-  "zip_release": true,
-  "filename": "wristband.zip"
-}
+    "name": "wristband",
+    "content_in_root": false,
+    "render_readme": true,
+    "iot_class": "local_polling"
+  }
